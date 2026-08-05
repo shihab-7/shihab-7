@@ -149,7 +149,7 @@ I am a **Computer Science graduate** passionate about **Artificial Intelligence*
         An intelligent lost and found management platform integrating IoT hardware with a Django backend for real-time item tracking and recovery.
       </p>
       <p align="center">
-        <a href="https://github.com/shihab-7/find-my-stuff">
+        <a href="https://github.com/shihab-7/FindMyStuff_live">
           <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
         </a>&nbsp;
         <a href="#">
@@ -172,7 +172,7 @@ I am a **Computer Science graduate** passionate about **Artificial Intelligence*
         AI-powered light pollution prediction system built for the NASA Space Apps Challenge, leveraging Random Forest models and LLM integration.
       </p>
       <p align="center">
-        <a href="https://github.com/shihab-7/lumiless">
+        <a href="https://github.com/shihab-7/NASA_space_app_challenge2025">
           <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
         </a>
       </p>
@@ -193,7 +193,7 @@ I am a **Computer Science graduate** passionate about **Artificial Intelligence*
         A fully functional e-commerce platform with product management, cart functionality, user authentication, and payment integration.
       </p>
       <p align="center">
-        <a href="https://github.com/shihab-7/my-shop">
+        <a href="https://github.com/shihab-7/University-coding-courses/tree/main/E-commerce%20%26%20web%20engineering/My_shop">
           <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
         </a>
       </p>
@@ -260,25 +260,12 @@ I am a **Computer Science graduate** passionate about **Artificial Intelligence*
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=shihab-7&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=shihab-7&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=shihab-7&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true" alt="GitHub Stats" />
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=shihab-7&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=shihab-7&theme=default&hide_border=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=shihab-7&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak" />
-</picture>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=shihab-7&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true" alt="GitHub Stats" />
+<img width="49%" src="https://streak-stats.demolab.com/?user=shihab-7&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak" />
 
 <br/><br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=shihab-7&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=shihab-7&layout=compact&theme=default&hide_border=true&langs_count=8" />
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shihab-7&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
-</picture>
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shihab-7&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
 
 </div>
 
