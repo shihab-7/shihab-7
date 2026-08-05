@@ -260,12 +260,32 @@ I am a **Computer Science graduate** passionate about **Artificial Intelligence*
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=shihab-7&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true" alt="GitHub Stats" />
-<img width="49%" src="https://streak-stats.demolab.com/?user=shihab-7&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak" />
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/github/followers/shihab-7?label=Followers&style=for-the-badge&logo=github&logoColor=white&color=58A6FF" alt="GitHub Followers" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/github/stars/shihab-7?affiliations=OWNER%2CCOLLABORATOR&label=Stars&style=for-the-badge&logo=github&logoColor=white&color=58A6FF" alt="GitHub Stars" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Public%20Repos-View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Public Repositories" />
+    </td>
+  </tr>
+</table>
 
 <br/><br/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shihab-7&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-Primary%20language-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-Backend%20and%20DSA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Django-Backend%20framework-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/ML%20%26%20AI-Research%20focus-58A6FF?style=for-the-badge&logo=github&logoColor=white" alt="ML and AI" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shihab-7&label=Profile%20Views&color=58a6ff&style=for-the-badge" alt="Profile Views" />
+</p>
 
 </div>
 
