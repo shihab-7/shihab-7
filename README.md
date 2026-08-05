@@ -2,7 +2,9 @@
 <!-- BANNER -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-<img src="./assets/banner.png" alt="Md. Shihab Shahriar — AI Engineer & Software Engineer" width="100%" />
+<div align="center">
+  <img src="./assets/banner.png" alt="banner" width="85%" />
+</div>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 <!-- HERO SECTION -->
