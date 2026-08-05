@@ -278,7 +278,6 @@ I am a **Computer Science graduate** passionate about **Artificial Intelligence*
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-Primary%20language-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-Backend%20and%20DSA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Django-Backend%20framework-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
   <img src="https://img.shields.io/badge/ML%20%26%20AI-Research%20focus-58A6FF?style=for-the-badge&logo=github&logoColor=white" alt="ML and AI" />
 </p>
